@@ -11,6 +11,7 @@ namespace PruebaTecnica.Models
     public class clsInfoUsuario
     {
 
+
         public string tipoDocumento { get; set; }
         public string numeroDocumento { get; set; }
         public string nombresYapellidos { get; set; }

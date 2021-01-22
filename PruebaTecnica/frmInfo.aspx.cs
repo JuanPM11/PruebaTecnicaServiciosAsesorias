@@ -10,6 +10,7 @@ namespace PruebaTecnica
 {
     public partial class frmInfo : System.Web.UI.Page
     {
+
         protected void Page_Load(object sender, EventArgs e)
         {
         }

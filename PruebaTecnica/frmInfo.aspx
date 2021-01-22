@@ -17,6 +17,7 @@
 
         <div>
 
+
             <div class="auto-style3">
 
                 <asp:Label ID="lblTitulo" runat="server" Text="Para buscar un registro, por favor ingrese el numero de documento"></asp:Label>
